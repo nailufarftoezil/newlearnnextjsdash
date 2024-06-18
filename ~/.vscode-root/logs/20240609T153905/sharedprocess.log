@@ -1,0 +1,4 @@
+2024-06-09 15:39:10.174 [info] Starting worker process with pid 4074 (type: fileWatcher, window: 1).
+2024-06-09 15:39:38.162 [info] Worker process with pid 4074 terminated normally (type: fileWatcher, window: 1).
+2024-06-09 15:39:39.302 [info] Starting worker process with pid 4095 (type: fileWatcher, window: 1).
+2024-06-10 11:46:43.134 [warning] No ptyHost heartbeat after 6 seconds

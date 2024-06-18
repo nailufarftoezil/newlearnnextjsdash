@@ -1,0 +1,10 @@
+2024-06-09 15:39:06.221 [info] update#setState idle
+2024-06-09 15:39:07.981 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2024-06-09 15:39:07.987 [info] [UtilityProcess id: 1, type: extensionHost, pid: 4072]: successfully created
+2024-06-09 15:39:35.881 [info] update#setState checking for updates
+2024-06-09 15:39:36.372 [info] update#setState downloading
+2024-06-09 15:39:38.147 [info] [UtilityProcess id: 1, type: extensionHost, pid: 4072]: received exit event with code 0
+2024-06-09 15:39:38.148 [info] Extension host with pid 4072 exited with code: 0, signal: unknown.
+2024-06-09 15:39:39.347 [info] [UtilityProcess id: 2, type: extensionHost, pid: <none>]: creating new...
+2024-06-09 15:39:39.352 [info] [UtilityProcess id: 2, type: extensionHost, pid: 4096]: successfully created
+2024-06-09 15:43:54.472 [info] update#setState ready
